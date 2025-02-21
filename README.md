@@ -6,7 +6,7 @@
 
 # Nexus CLI Installation Guide (UPDATED)
 
-A comprehensive and up-to-date guide for installing and running the Nexus CLI on Ubuntu (Recommended), Windows, Android, macOS, and EC2 Ubuntu instances. This update includes real-time error solutions for a smooth experience.
+A comprehensive and up-to-date guide for installing and running the Nexus CLI on Ubuntu (Recommended), Windows, Android and macOS. This update includes real-time error solutions for a smooth experience.
 
 ## Table of Contents
 - [Ubuntu Installation (Recommended)](#ubuntu-installation-recommended)
